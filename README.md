@@ -6,13 +6,15 @@ __________
 
 La idea de este juego es que el personaje pueda comer los diferentes objetos que estan su camino  hasta  que finalize , sin tener que tocarse con los enemigos que estan en distintos lados del juego.
 
-Para esto se ha desarrollado usando la libreria allegro para facilitar el desarrollo 
+Para esto se ha desarrollado usando la libreria allegro para facilitar el desarrollo,
 
 
 Como usar
 _____
 
-Descargar todos los archivos del github y ejecutar el protable laberinto.exe, también si se encuentra en modo desarrollo este proyecto se trabajo con codeblocks , al cual se le tiene que configurar las librerias del allegro para que pueda funcionar.
+1.-Descargar todos los archivos del github.
+2.-El proyecto se realizo con codeblocks , al cual se le tiene que configurar las librerias del allegro para que pueda funcionar, para mas informacion de la configuracion revisar esta fuente https://www.youtube.com/watch?v=xjQHQzhmOQ8
+3.- Una vez ya configurado la libreria allegro , abrir el proyecto desde el codeblocks y ejecutar.
 
 Dificultades
 ____
