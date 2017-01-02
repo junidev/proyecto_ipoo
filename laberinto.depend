@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1482768558 source:d:\unsa\2 ciclo\ipoo\laberinto\enemigo.cpp
+
+1482754558 source:d:\unsa\2 ciclo\ipoo\laberinto\jugador.cpp
+
+1482924144 source:d:\unsa\2 ciclo\ipoo\laberinto\main.cpp
+	<allegro.h>
+	<allegro/alcompat.h>
+	<iostream>
+	<cstdio>
+	<ctime>
+	"enemigo.h"
+	"enemigo.cpp"
+
+1482920327 d:\unsa\2 ciclo\ipoo\laberinto\enemigo.h
+
+1482768558 d:\unsa\2 ciclo\ipoo\laberinto\enemigo.cpp
+
